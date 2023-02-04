@@ -12,6 +12,7 @@ const App = () => {
   return (
     <>
     
+    
    <Navig/>
    <Header/>
    <About/>  

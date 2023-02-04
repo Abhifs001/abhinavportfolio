@@ -21,5 +21,4 @@ const Navig = () => {
    </nav>
   )
 }
-
 export default Navig;
