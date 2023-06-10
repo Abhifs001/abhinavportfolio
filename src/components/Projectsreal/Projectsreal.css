@@ -28,13 +28,12 @@
 
 @media screen and (max-width:600px) {
     .container_projects-real{
-<<<<<<< HEAD
+ 
         width: var(--container-width-sm);
         width: 100%;
-=======
        width: var(--container-width-sm);
          
->>>>>>> 56f2ce9c4345b268d8faad7c81e537e70df0ec8c
+
     }
     
 }
