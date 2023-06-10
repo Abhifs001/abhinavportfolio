@@ -76,7 +76,7 @@
     }
 
     .me{
-        background: linear-gradient(var(--color-primary),  3px, transparent) ;
+       background: linear-gradient(var(--color-primary),  3px, transparent) ;
         width: 80%;
         height: 20%;
         left: calc(5%);
@@ -86,12 +86,9 @@
         
     
     }
-    .about_header-content{
-        text-align: center;
-        padding: 0rem 0rem 0 0 ;
-        width: 100%;
-
-
+     .about_header-content{
+        max-width: 39rem;
+        margin : 0;
     }
     .header_socials{
         display:  flex;
