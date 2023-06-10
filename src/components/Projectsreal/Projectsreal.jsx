@@ -16,6 +16,10 @@ const Data =[
         name:'ShareBay',
         details: 'The Project entitled “ShareBay” is based on the Share Mobility Business Model of Electric Vehicles. It is a Scalable Online Booking of Electric Vehicles through implementation of the MERN Stack. This project aims to develop a full stack web application to provide a fully digitized solution for smaller car rental companies to manage, analyse and distribute their fleet. Due to the wide range of possible requirements, the project will be based on a core set of end-to-end functions that exercise the full depth of a web application stack. '
     }, 
+    {
+        name:'Real Estate Price Prediction Using Machine Learning',
+        details: ' The Project entitled ‘Real Estate Price Prediction’ attempts to use Machine Learning Algorithms to predicting values of a given property. The performance will be measured upon predicting house prices since the prediction in many regression algorithms relies not only on a specific feature but on an unknown number of attributes that result in the value to be predicted. House prices depend on an individual house specification. Houses have a variant number of features that may not have the same cost due to its location.  '
+    },
 
     {
         name:'Email Automation',
@@ -62,7 +66,6 @@ const Projectsreal = () => {
                })
            }
         </Swiper>
-
 
     </section>
   )

@@ -7,6 +7,14 @@ const Experience = () => {
       <h2>Experience</h2>
       <div className="parent">
       <div className="experience_title">
+            <h2> ML Developer </h2>
+            <small>Ouranos Robotics Pvt Ltd</small>
+             <div className="experience_details">
+              Built on Deep Learning Project using Convolutional Neural Network for Fruit Classification. Working for developing ML system to predict the Irrigation slot for utilization of water resource and overcome the problem due to random rainfall
+
+             </div>
+      </div>
+      <div className="experience_title">
             <h2>Technical Content Writer </h2>
             <small>Board Infinity</small>
              <div className="experience_details">
