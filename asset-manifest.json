@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/abhinavportfolio/static/css/main.fa8f1077.css",
-    "main.js": "/abhinavportfolio/static/js/main.c39b386a.js",
+    "main.js": "/abhinavportfolio/static/js/main.1fe25c52.js",
     "static/media/1675436430107.jpg": "/abhinavportfolio/static/media/1675436430107.e7f706e7905da4a51e0d.jpg",
     "static/media/Abhinav-Pandey-DevOps-Data-Science.jpg": "/abhinavportfolio/static/media/Abhinav-Pandey-DevOps-Data-Science.6fa5fdf1751d6e151c08.jpg",
     "static/media/Abhinav-Pandey-Resume.pdf": "/abhinavportfolio/static/media/Abhinav-Pandey-Resume.f3147712ab2d4b5d19eb.pdf",
     "static/media/AbhinavPandey.jpg": "/abhinavportfolio/static/media/AbhinavPandey.2a249ecf9b3c3e7923f2.jpg",
     "index.html": "/abhinavportfolio/index.html",
     "main.fa8f1077.css.map": "/abhinavportfolio/static/css/main.fa8f1077.css.map",
-    "main.c39b386a.js.map": "/abhinavportfolio/static/js/main.c39b386a.js.map"
+    "main.1fe25c52.js.map": "/abhinavportfolio/static/js/main.1fe25c52.js.map"
   },
   "entrypoints": [
     "static/css/main.fa8f1077.css",
-    "static/js/main.c39b386a.js"
+    "static/js/main.1fe25c52.js"
   ]
 }
